@@ -1,0 +1,19 @@
+.{
+    .name = .regex,
+    .version = "0.0.0",
+    .fingerprint = 0x4204f8cac2fa1fb2,
+    .minimum_zig_version = "0.16.0",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+        "README.md",
+        "AI_AUTHORSHIP_DISCLAIMER.md",
+        "src",
+        "examples",
+        "docs",
+        "benchmark.py",
+        "build_checks.py",
+        "testing.py",
+    },
+}
