@@ -1,0 +1,2 @@
+# Zig's formatter requires canonical LF line endings on every platform.
+* text=auto eol=lf

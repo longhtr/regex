@@ -1,0 +1,17 @@
+# Zig build output and caches
+/.zig-cache/
+/zig-out/
+/zig-pkg/
+
+# Generated qualification and benchmark logs
+/testing.log
+/benchmark.log
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local editor and operating-system files
+.DS_Store
+*.swp
+*.swo
